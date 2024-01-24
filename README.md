@@ -1,7 +1,7 @@
 Agreement calculation files.
 
 calculating_agreements.ipynb
-calculating agreement process
+calculating  4 agreements process
 
 generate_random_ratings.ipynb
 generate random ratings for agreement quantifications
